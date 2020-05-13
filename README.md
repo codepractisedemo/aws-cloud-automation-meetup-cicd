@@ -1,5 +1,11 @@
 # aws-cloud-automation-meetup-cicd
 
+## live demo
+
+https://www.youtube.com/watch?v=MAhucSzRq8o
+
+[![youtube link to recorded live demo](https://img.youtube.com/vi/MAhucSzRq8o/0.jpg)](https://www.youtube.com/watch?v=MAhucSzRq8o)
+
 ## use case
 
 A highly available front-end web application & API with CI/CD build system capable of continuous delivery and Slack/Email build notifications. 
