@@ -2,9 +2,12 @@
 
 ## live demo
 
-https://www.youtube.com/watch?v=MAhucSzRq8o
-
 [![youtube link to recorded live demo](https://img.youtube.com/vi/MAhucSzRq8o/0.jpg)](https://www.youtube.com/watch?v=MAhucSzRq8o)
+
+## AWS cloud meetup group
+https://www.meetup.com/AWS-Cloud-Automation-Group/events/270505165/?comment_table_id=266396741&comment_table_name=reply
+
+
 
 ## use case
 
