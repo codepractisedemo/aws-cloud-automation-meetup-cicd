@@ -6,6 +6,7 @@ resource "aws_route53_record" "multiaz_instance" {
   alias {
     name                   = aws_lb.this.dns_name
     zone_id                = aws_lb.this.zone_id
+    
     evaluate_target_health = true
   }
 }
