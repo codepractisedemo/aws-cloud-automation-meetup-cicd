@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"webserver","Source":"./webserver","Dir":"webserver"},{"Key":"","Source":"","Dir":"."},{"Key":"notification_build_succeeded","Source":"./cicd_notification","Dir":"cicd_notification"},{"Key":"pipeline","Source":"./cicd_pipeline","Dir":"cicd_pipeline"},{"Key":"vpc","Source":"./vpc","Dir":"vpc"}]}
